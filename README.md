@@ -17,6 +17,13 @@ __players__: 2
       2. __Green__ beats __Blue__
       3. __Blue__ beats __Red__
       4. __Neutral__ is __equal to__ all other colors.
+5. Every unit has a cost on it. This will be displayed above where the unit's marker is on the card.
+   1. 0-cost units will __have no value__ displayed on the card.
+   2. A unit's __cost will correspond to the shape__ of its marker.
+      1. __0-cost__ units will be __circular__
+      2. __1-cost__ units will be __triangular__
+      3. __2-cost__ units will be __square__
+      4. __3-cost__ units will be __pentagons__
     
 
 ## Drafting
