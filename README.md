@@ -5,7 +5,7 @@ A deck-building strategy board game with influences of fire emblem, dominion, an
 __players__: 2
 
 ## Unit
-![sample card](https://github.com/NicoCobb/siege/blob/797e6cf8d2c71e31732041b7e3fed4109f3c2efb/Sample_card.png)
+![sample card](https://github.com/NicoCobb/siege/blob/797e6cf8d2c71e31732041b7e3fed4109f3c2efb/Sample_card.png =.5x)
 1. Each unit will contain 4 values:
   1. __Attack, Range, Health, and Movement__.
   2. These will be listed in the top left, bottom left, top right, and bottom right corners respectively.
